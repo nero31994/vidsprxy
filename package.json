@@ -1,4 +1,12 @@
-"dependencies": {
-  "puppeteer-core": "^25.0.0",
-  "chrome-aws-lambda": "^19.0.1"
+{
+  "name": "vidsrc-extractor",
+  "version": "1.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "puppeteer-core": "^25.0.0",
+    "chrome-aws-lambda": "^19.0.1"
+  }
 }
